@@ -1,3 +1,10 @@
+###
+
+#    Author:  Hongli Ma<hongli.ma.explore@gmail.com> 2021
+#    Usage: This perl file is created to run RNANetMotif. 
+ 
+###
+
 #!/usr/bin/perl
 
 use strict;
